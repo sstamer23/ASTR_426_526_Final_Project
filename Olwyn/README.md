@@ -8,10 +8,7 @@ This folder has Olwyn's code and data for the project.
 ***Note: GAIA async queries are (as of writing this) unstable, and thus using sync queries are better for large datasets. Although, async queries worked for this purpose with a list of ~4 thousand inputs.
 
                            ╱|、
-                           
                           (˚ˎ 。7
-                          
                           |、˜〵        
-                          
                           じしˍ,)ノ
                           
